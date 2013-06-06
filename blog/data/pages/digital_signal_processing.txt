@@ -1,0 +1,19 @@
+====== Digital Signal Processing ======
+이산시간에서 어떠한 영상 혹은 음성신호 및 불특정 Data를 처리하기 위한 학문이다.
+
+자세한 정의는 [[https://ko.wikipedia.org/wiki/디지털_신호_처리]] 에서 보도록 하자.
+
+----
+===== 1. 영상 =====
+  * [[Image Processing]]
+  * [[Visioning]]
+
+----
+
+===== 2. 음성 =====
+  * [[Audio Processing]]
+
+----
+
+===== 3. 불특정 Data =====
+  * [[Data Mining]]

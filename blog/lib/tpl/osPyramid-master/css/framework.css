@@ -1,0 +1,82 @@
+/* body { font:14px/1.5 'Metrophobic'; color:#444444; background-color:#C3D9FF} */
+body { font:14px/1.5 'Droid Sans'; color:#444444; background-color:#C3D9FF}
+p {margin:0 0 1.5em; text-align:justify;}
+pre { border-top:2px solid #C6C9CB; border-bottom:2px solid #C6C9CB; padding:5px; overflow:auto; background:#FAFAFA;font-size:14px;}
+
+#navi {background-color:#111111; padding-top:5px; color:#fc0082; border-bottom: 3px solid #666666;}
+#navi a {border:none; padding:	.75em 1em; text-decoration:none; background:#000000; color:#ffffff}
+#navi a:hover {border:none; padding:	.75em 1em; text-decoration:none; background:#FFFFFF; color:#000000}
+
+#footer {font-size:12px; line-height:1.12em; background-color:#111111; padding-bottom:5px; margin-top:30px; color:#BBBBBB; border-top: 3px solid #666666;}
+#footer a {border:none;text-decoration:none; color:#BBBBBB}
+#footer a:hover {text-decoration:underline}
+#footer h6 { font-size:15px; color:#CCCCCC; margin-bottom:15px; padding-top:15px; }
+#footer ul {list-style-type: none; margin-left:0px; padding-left:0px;}
+
+#category { background-color:#172426;  border-top:1px solid #8AB29F;  border-bottom:1px solid #8AB29F}
+#category a {border:none;text-decoration:none; color:#ffffff}
+#category li {color: #FFFFFF; font-weight: bold;text-decoration: none; text-shadow: 2px 1px 0 #778899; z-index: 100; border:none; background-color:#273E42;margin-right:3px}
+   /*#category a { color: #FFFFFF; font-weight: bold;text-decoration: none; text-shadow: 2px 1px 0 rgba(0, 0, 0, 0.4); z-index: 100; border:none; background-color:#022B2E; } */ 
+#category li:hover, #category a:hover { background:#9bc4ce; outline:0;}
+
+#category_menu { margin:2px 0}
+
+#wikiinner { background: #FFFFFF; }
+#wikicontent { font-size:14px; padding: 25px 0 25px 25px; }
+
+#toc__inside {}
+
+#breadcrumb { color:#022B2E; padding:1px 0 1px 8px; font-size:14px}
+#breadcrumb a { color: #022B2E; text-decoration: none; }
+#breadcrumb a:hover { text-decoration: underline; }
+
+.sidebar h6 { font-size:18px; color:#444444; margin-bottom:15px; border-bottom:1px solid #A6A9AB; font-weight:bold }
+
+.sidebar ul, .sidebar ol { font-size:100.01%; margin:0; list-style-type: circle}
+.sidebar li {padding-top:5px; text-decoration:none}
+
+.tocheader { font-size:18px; color:#444444; margin-bottom:10px; border-bottom:1px solid #A6A9AB; font-weight:bold }
+
+.foot { border-top:1px solid #DDDDDD; margin-top:15px; padding-top:15px }
+.foot h6 { font-size:18px; color:#555555; margin:0 0 10px 0; }
+
+.inbox { border-top:1px solid #DDDDDD; margin-top:15px; padding-top:15px }
+.inbox h6 { font-size:18px; color:#555555; margin:0 0 10px 0; }
+
+.inbox_clear {  }
+
+.inbox_top { border-bottom:1px solid #DDDDDD; margin-bottom:15px; padding-bottom:15px}
+
+/* special headlines */
+div.wiki h1 { margin-left: 0px; }
+div.wiki h2 { margin-left: 5px; }
+div.wiki h3 { margin-left: 10px; }
+div.wiki h4 { margin-left: 15px; }
+div.wiki h5 { margin-left: 20px; }
+
+/* indent different sections */
+div.wiki div.level1 { margin-left: 0px; }
+div.wiki div.level2 { margin-left: 5px; }
+div.wiki div.level3 { margin-left: 10px; }
+div.wiki div.level4 { margin-left: 15px; }
+div.wiki div.level5 { margin-left: 20px; }
+
+
+div.wiki div.toc { margin: 0 0 20px 2em;  float: right; width: 230px; clear: both; }
+
+h1 { margin: 0.5em 0 1.0em 0; }
+
+a { color: #006699 }
+
+.widget { margin-bottom:30px }
+
+div.wiki img { -moz-box-shadow: 10px 10px 10px #999; -webkit-box-shadow: 10px 10px 10px #999; box-shadow: 10px 10px 10px #999;  }
+
+input.button:hover {
+        color: #CCCCCC;
+}
+
+#sidebar_float { float: left; margin: 0 0 0 -185px; position: fixed; width:185px}
+#sidebar_float h6 { font-size:18px; color:#444444; margin-right:10px; margin-bottom:15px; border-bottom:1px solid #A6A9AB; font-weight:bold }
+
+#footerbox { background-color:#FFFFFF; padding: 30px; border:1px solid #AAAAAA; margin-top:30px; }

@@ -1,0 +1,44 @@
+/* Dokuwiki */
+
+.picker {
+    z-index: 99;
+}
+
+textarea.edit {
+    display: block;
+}
+
+/* Editor */
+
+.ace-doku {
+    overflow: hidden;
+}
+
+.ace-doku .ace_editor {
+    font-size: inherit;
+}
+
+.ace-toggle {
+    float: right;
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+.ace-doku .ace_marker-layer .ace_preview {
+    position: absolute;
+    background-color: white;
+    padding: 5px;
+    border: 1px solid #ccc;
+}
+
+.ace-doku .ace_marker-layer .ace_menu {
+    background-color: white;
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+}
+
+/* Theme */
+
+.ace_markup.ace_underline {
+    text-decoration:underline;
+}

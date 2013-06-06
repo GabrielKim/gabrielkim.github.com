@@ -1,0 +1,109 @@
+2013-05-15
+  * Fixed lock expiring while editing
+  * Fixed setting to enabled/disable syntax highlighting
+  * Fixed highlighting of code blocks with filenames
+  * Fixed highñighting of tables with multiline cells
+  * Use same font size and line height as textarea
+  * Same languages as GeSHI allowed in code/file blocks
+  * Updated Ace version (freaturing a search box and new themes)
+
+2012-10-01
+  * Syntax highlighting for diff, Go, JSX, Lua Page, TCL and YAML
+  * Fixed headline buttons when Ace is disabled
+  * Fixed navigation shortcuts issues on Mac
+  * Updated Ace version
+
+2012-09-06
+  * Fixed settings when plugin is disabled
+  * Fixed SSL alert when loading jQuery (pre-Angua)
+  * Fixed parsing of table inside code blocks
+  * Updated Ace version
+
+2012-04-17
+  * Support for markdown(extra) plugin
+  * Setting to enable/disable Ace by default
+  * Syntax highlighting of all languages supported by Ace
+  * Fixed conflict with edittable plugin
+  * Updated Ace version
+
+2012-02-14
+  * Fixed syntax of nowiki tags
+  * Fixed toolbar bug when Ace is disabled
+  * Setting for additional XML-like tags
+  * PHP-JSON extension not required
+  * Updated Ace version
+
+2011-12-14
+  * Fixed loading of editor randomly failed
+  * Fixed scrolling glitch when loading editor
+  * Preserve border and margin styles of textarea
+  * Polish translation by Aleksander Setlak
+  * Updated Ace version
+
+2011-11-16
+  * Fixed syntax highlighting of media and internal links
+  * Fixed syntax highlighting of content inside tables
+  * Internet Explorer 9 is not blacklisted anymore
+  * Updated Ace version
+
+2011-10-17
+ * Table shortcuts now use prefix Ctrl-Space instead of Alt
+ * Table commands now support column span
+ * Use of color themes included in Ace
+ * Syntax hihglighting of content inside code, file, html, php and latex tags
+ * Russian translation (thanks to Aleksandr Selivanov)
+ * Support for next Dokuwiki release "Angua"
+ * Some minor improvements and bug fixes
+ * Code ported to CoffeScript and refactored
+ * Updated ace version
+
+2011-06-14
+ * Tab now inserts 2 spaces instead of 4
+ * New command to remove a column of a table
+ * Option key is used for shortcuts is MacOSX
+ * Fixed errors in toolbar buttons
+ * Workaround for conflict with syntaxhiglighter3 plugin
+ * Fixed some minor bugs in table commands
+
+2011-06-02
+ * Table editing commands
+ * Notify of errors in LaTeX preview
+ * Italian translation (thanks to vinnie)
+ * Fixed editor in locked pages
+ * Some minor bugs fixed
+ * Updated Ace version
+
+2011-04-07
+ * Syntax highlihgting for LaTeX plugin
+ * Preview of LaTeX formulas
+
+2011-04-01
+ * Fixed some integration bugs
+ * Updated Ace build (fixes multi-byte languages)
+
+2011-03-25
+ * Fixed syntax error with compact JavaScript
+ * Use of jQuery for compatibility and future enhancements
+ * Updated Ace build
+
+2011-03-21
+ * Toggle between Ace and textarea
+ * New light color theme
+ * Fixed: toolbar popups not clickable
+ * Fixed: editor in locked pages
+ * Updated Ace build
+
+2011-03-11
+ * Works on Lemming
+ * Fixed some integration bugs
+ * Updated Ace build
+
+2011-02-17
+ * Wrap mode: adapts to editor width if limit is empty
+ * Fixed issue #1: width wrong when using sidebar template
+ * Update Ace build from master branch
+
+2011-02-10
+ * Editor integration
+ * Syntax highlighting
+ * New line indentation

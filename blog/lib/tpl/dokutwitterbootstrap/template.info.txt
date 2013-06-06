@@ -1,0 +1,7 @@
+base     dokutwitterbootstrap
+author   Ryan W. Moore
+email    rwmoore07@gmail.com
+date     2013-02-17
+name     DokuWiki Twitter Bootstrap (DokuStrap)
+desc     The DokuWiki template that gets you started using Twitter Bootstrap theme
+url      TBA

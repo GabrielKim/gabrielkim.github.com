@@ -1,0 +1,48 @@
+====== Computer Science & Engineering ======
+
+----
+
+===== 1. 개요 =====
+==== (1) Sci. 와 Eng. 의 차이  ====
+우선은 컴퓨터 '과학'과 '공학'은 약간 차이가 있다.
+
+그 차이는 내가 설명하는 것보다는 위키피디아가 훨씬 나을것 같아 링크를 남긴다. :-)
+  * [[http://ko.wikipedia.org/wiki/컴퓨터_과학]]
+  * [[http://ko.wikipedia.org/wiki/컴퓨터_공학]]
+어쨋건 '**컴퓨터 과학**'은 __접근 방법__이고, '**컴퓨터 공학**'은 __접근 방법을 이용한 돈벌이 수단이 될 수 있는 무언가를 '생산'하는것을 목표__로하는 학문이다.
+
+사실 필자는 '컴퓨터 공학'을 전공 하였으며, 처음엔 '컴퓨터 과학'과 '컴퓨터 공학'에 대한 개념이 없었다. 오히려 '모호'하였다. 하지만 두 가지가 엄연히 구분 되는 개념이라는 것을 안 후에는 더 이상 모호할 필요가 없었다. 이 글을 보는 사람들은 위의 개념을 숙지하여 절대 모호할 일이 없길 바란다.
+
+----
+
+==== (2) 본 Contents의 범위 ====
+
+내가 여기에 남기는 것들은 일단 학문적인 분야 및 정말로 꼭 알고 들어가야하는 필수적인 Tool 및 경험들에 대한 것들을 포함시켜서 완전한 문서로 만들고자 한다.
+
+각 여러 분야로 나뉘어져 있으며 추후에 각 항목들에 대한 것을 세분화 및 추가적으로 덧붙일 계획이다.
+
+----
+
+===== 2. Table of Contents =====
+==== (1) 학문 분야 ====
+  * [[Language]]
+  * [[System Architecture]]
+  * [[Algorithm]]
+  * [[Database]]
+  * [[Network]]
+  * [[Operating System]]
+  * [[Compiler]]
+  * [[Digital Signal Processing]]
+  * [[Artificial Intelligence]]
+  * [[Software Engineering]]
+  * [[Reverse Engineering]]
+  * [[Web]]
+  * [[Graphic]]
+  * [[Distribute System]]
+
+----
+
+==== (2) IDE & Editors ====
+  * [[Visual Studio]]
+  * [[Eclipse]]
+  * [[Emacs]]
