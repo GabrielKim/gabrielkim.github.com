@@ -50,7 +50,7 @@
 ==== (2) High-Level Language ====
 === <1> Imperative Language(명령형 언어) ===
   * [[Algol]]
-  * [[Portran]]
+  * [[Fortran]]
 
 ----
 
@@ -74,5 +74,5 @@
 ----
 
 === <4> Functional Language(함수형 언어) ===
-  * [[Lisp]]
+  * [[Lisp]] & [[ELisp]]
   * [[F-sharp]]
